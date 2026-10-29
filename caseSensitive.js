@@ -1,8 +1,11 @@
 //Teste de Case Sensitive
-A = 'Fiquei louco'
+A = 10
 a = 20
-teste = 10
+teste = a
 
 console.log(teste)
 console.log(A)
+
+// A = 'Fiquei louco'
+// teste = aconsole.log(teste)
 
